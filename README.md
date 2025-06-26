@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34abec0e-a51b-4546-bf20-36c99fbdd697" alt="Rumaisa's Banner" />
+</p>
+
+
 # Hi there, I'm Rumaisa! 👋
 
 🌸 I'm a Front-End Developer & Illustrator from Pakistan.  
