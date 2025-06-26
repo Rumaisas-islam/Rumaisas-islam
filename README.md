@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Rumaisa! 👋
 
-<!--
-**Rumaisas-islam/Rumaisas-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 I'm a Front-End Developer & Illustrator from Pakistan.  
+🐍 Currently learning Python & Flask.  
+🎨 Passionate about creative design and digital art.  
+🤖 Future goal: Dive into the world of Artificial Intelligence, InshaAllah!
 
-Here are some ideas to get you started:
+## 💻 Tech Skills
+- HTML | CSS | JavaScript
+- Python | Flask
+- Adobe Illustrator | Photoshop
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio
+🎨 [My Illustrator Portfolio (Drive Link)](https://drive.google.com/file/d/1yxzs6RwElX6nD1SuuaOCqYEK83Ledl1a/view?usp=drivesdk)
