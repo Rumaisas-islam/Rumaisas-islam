@@ -33,7 +33,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Python + GUI + CLI)
 
 ### ⛅ [Weather CLI App](https://github.com/Rumaisas-islam/weather-cli-app)
 Real-time weather checker using OpenWeatherMap API. CLI-based with `.env` support, search history, and modular code.
@@ -55,6 +55,10 @@ Track your daily expenses from the terminal. Clean interface, persistent storage
 
 ### 🍰 [Cake World CLI](https://github.com/Rumaisas-islam/cake-world)
 A sweet and simple CLI app to manage cake recipes — add, edit, view, and delete your favorite desserts!
+
+### 🧾 [PDF Merger GUI App](https://github.com/Rumaisas-islam/pdf-merger-gui)  
+Merge multiple PDF files with a sleek, user-friendly **GUI** built using **PyQt5**.  
+📂 Drag-and-drop interface · 🛠️ Built with PyPDF2 · 🎨 Beginner-friendly desktop utility
 
 ---
 
