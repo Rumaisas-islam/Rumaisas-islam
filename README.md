@@ -60,7 +60,7 @@ A sweet and simple CLI app to manage cake recipes — add, edit, view, and delet
 Merge multiple PDF files with a sleek, user-friendly **GUI** built using **PyQt5**.  
 📂 Drag-and-drop interface · 🛠️ Built with PyPDF2 · 🎨 Beginner-friendly desktop utility
 
-### 🎓 Student Report Card Management System
+### 🎓 [Student Report Card Management System](https://github.com/Rumaisas-islam/student-report-card-management-system)
 A secure, console-based Python project that manages students' academic records with grading, leaderboard, editing, deletion, and backup system.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github&style=flat-square)](https://github.com/Rumaisas-islam/student-report-card-management-system)
