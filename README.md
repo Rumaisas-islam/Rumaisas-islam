@@ -75,7 +75,7 @@ A secure, console-based Python project that manages students' academic records w
 - Full test folder for core features
 - No external dependencies
 
-🧾 Trip Budget Planner CLI
+### 🧾 [Trip Budget Planner CLI](https://github.com/Rumaisas-islam/trip-budget-planner.git)
 Plan your entire trip budget from the terminal — transport, food, stay, and more in one clean Python tool.
 
 ---
