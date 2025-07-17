@@ -63,6 +63,9 @@ Merge multiple PDF files with a sleek, user-friendly **GUI** built using **PyQt5
 ### 🎓 [Student Report Card Management System](https://github.com/Rumaisas-islam/student-report-card-management-system)
 A secure, console-based Python project that manages students' academic records with grading, leaderboard, editing, deletion, and backup system.
 
+🧾 Trip Budget Planner CLI
+Plan your entire trip budget from the terminal — transport, food, stay, and more in one clean Python tool.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github&style=flat-square)](https://github.com/Rumaisas-islam/student-report-card-management-system)
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![MIT License](https://img.shields.io/github/license/Rumaisas-islam/student-report-card-management-system?style=flat-square)](https://github.com/Rumaisas-islam/student-report-card-management-system/blob/main/LICENSE.md)
