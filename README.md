@@ -81,6 +81,9 @@ Plan your entire trip budget from the terminal — transport, food, stay, and mo
 ### 💬[ChitChat CLI Bot](https://github.com/Rumaisas-islam/chitchat-cli-bot.git)
 Beginner-friendly Python command-line chatbot with motivational quotes, Islamic reminders, stories, cake recipes, beauty tips, and more — all from your terminal!
 
+### 🧮[Smart CLI Calculator]( https://github.com/Rumaisas-islam/calculator-cli-app)
+A beginner-friendly Python terminal calculator built with OOP principles. Supports all major arithmetic operations, handles edge cases like division by zero, tracks history, and exports it to a .txt file — all via the command-line.
+
 ---
 
 ## 🎨 Illustrator Portfolio
