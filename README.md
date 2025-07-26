@@ -84,6 +84,9 @@ Beginner-friendly Python command-line chatbot with motivational quotes, Islamic 
 ### 🧮[Smart CLI Calculator]( https://github.com/Rumaisas-islam/calculator-cli-app)
 A beginner-friendly Python terminal calculator built with OOP principles. Supports all major arithmetic operations, handles edge cases like division by zero, tracks history, and exports it to a .txt file — all via the command-line.
 
+### 🤖[Python + AI Tutor Bot](https://github.com/Rumaisas-islam/ai-python-tutor-bot.git)
+Interactive learning chatbot built with Flask and OpenAI API, featuring user auth, menu-based Python & AI lessons, and pytest route testing.
+
 ---
 
 ## 🎨 Illustrator Portfolio
