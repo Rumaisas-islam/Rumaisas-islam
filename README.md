@@ -87,11 +87,14 @@ A beginner-friendly Python terminal calculator built with OOP principles. Suppor
 ### 🤖[Python + AI Tutor Bot](https://github.com/Rumaisas-islam/ai-python-tutor-bot.git)
 Interactive learning chatbot built with Flask and OpenAI API, featuring user auth, menu-based Python & AI lessons, and pytest route testing.
 
+###💄[MakeupWorld](https://github.com/Rumaisas-islam/makeup-store.git)
+Terminal-based makeup product manager in Python with Add, Search, Edit, Delete, automatic backup, and validated inputs. Class-based and file-handling implementation.
+
 ---
 
-## 🎨 Illustrator Portfolio
+## 🎨Graphic Design Portfolio
 
-📁 [View My Illustrator Work (Google Drive)](https://drive.google.com/file/d/1yxzs6RwElX6nD1SuuaOCqYEK83Ledl1a/view?usp=drivesdk)
+📁 [View My Graphic Designing (Portfolio)](https://www.behance.net/rumaisa_islam)
 
 ---
 
