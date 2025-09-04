@@ -89,6 +89,7 @@ Interactive learning chatbot built with Flask and OpenAI API, featuring user aut
 
 ### 💄[MakeupWorld](https://github.com/Rumaisas-islam/makeup-store.git)
 Terminal-based makeup product manager in Python with Add, Search, Edit, Delete, automatic backup, and validated inputs. Class-based and file-handling implementation.
+
 ---
 
 ## 🎨Graphic Design Portfolio
