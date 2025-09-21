@@ -93,6 +93,9 @@ Terminal-based makeup product manager in Python with Add, Search, Edit, Delete, 
 ### 📚[Book Library](https://github.com/Rumaisas-islam/book_library.git)
 Terminal-based book management system in Python with Add, Search, Edit, Delete, automatic backup, and validated inputs. Implements class-based structure and file-handling for persistent storage.
 
+### 💼[Inventory Management System](https://github.com/Rumaisas-islam/Python-Inventory-Management-System.git)
+Python-based terminal inventory management system with Add, Search, Edit, Delete, automatic backup, and unique item IDs. Implements class-based structure and file-handling for persistent storage.
+
 ---
 
 ## 🎨Graphic Design Portfolio
