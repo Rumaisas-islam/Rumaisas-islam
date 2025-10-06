@@ -126,8 +126,7 @@ A modern Flask-based web inventory management system for makeup products. Featur
 
 ## 🤝 Let's Connect
 
-- 📧 Email: *Coming Soon*
-- 🌐 LinkedIn: *Coming Soon*
+- 🌐 LinkedIn:https://www.linkedin.com/in/rumaisa-islam-6815a5270 
 - 💬 I'm open to collaboration, beginner-friendly discussions, and new ideas!
 
 ---
