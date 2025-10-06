@@ -96,6 +96,9 @@ Terminal-based book management system in Python with Add, Search, Edit, Delete, 
 ### 💼[Inventory Management System](https://github.com/Rumaisas-islam/Python-Inventory-Management-System.git)
 Python-based terminal inventory management system with Add, Search, Edit, Delete, automatic backup, and unique item IDs. Implements class-based structure and file-handling for persistent storage.
 
+### 💄[Makeup World (Flask Web App)](https://github.com/Rumaisas-islam/makeup-world-website.git)
+A modern Flask-based web inventory management system for makeup products. Features secure admin login, product CRUD (Create, Read, Update, Delete) operations, SQLite database integration, and a clean, elegant UI. Fully tested with Pytest for reliability.
+
 ---
 
 ## 🎨Graphic Design Portfolio
