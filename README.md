@@ -99,6 +99,10 @@ Python-based terminal inventory management system with Add, Search, Edit, Delete
 ### 💄[Makeup World (Flask Web App)](https://github.com/Rumaisas-islam/makeup-world-website.git)
 A modern Flask-based web inventory management system for makeup products. Features secure admin login, product CRUD (Create, Read, Update, Delete) operations, SQLite database integration, and a clean, elegant UI. Fully tested with Pytest for reliability.
 
+### 🍰[Cake World (Flask Web App)](https://github.com/Rumaisas-islam/flask-cake-recipe-website.git)
+A visually delightful Flask-based web application for managing and browsing cake recipes. Features include a responsive pink-themed UI, user authentication (Register/Login), recipe CRUD operations, and SQLite database integration.
+Tested with Pytest (All passed ✅) and ready for deployment on Render / Heroku.
+
 ---
 
 ## 🎨Graphic Design Portfolio
