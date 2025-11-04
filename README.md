@@ -103,6 +103,10 @@ A modern Flask-based web inventory management system for makeup products. Featur
 A visually delightful Flask-based web application for managing and browsing cake recipes. Features include a responsive pink-themed UI, user authentication (Register/Login), recipe CRUD operations, and SQLite database integration.
 Tested with Pytest (All passed ✅) and ready for deployment on Render / Heroku.
 
+### 📇[Flask Contact Book WebApp](https://github.com/Rumaisas-islam/Flask-ContactBook-WebApp.git)
+A clean and responsive Flask web app for managing contacts with full CRUD functionality, custom CSS, and SQLite integration.
+Tested with unittest ✅ and optimized for deployment (Render / Heroku).
+
 ---
 
 ## 🎨Graphic Design Portfolio
