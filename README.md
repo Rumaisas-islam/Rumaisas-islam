@@ -107,6 +107,10 @@ Tested with Pytest (All passed ✅) and ready for deployment on Render / Heroku.
 A clean and responsive Flask web app for managing contacts with full CRUD functionality, custom CSS, and SQLite integration.
 Tested with unittest ✅ and optimized for deployment (Render / Heroku).
 
+### 📚[Book Library — Flask Web App](https://github.com/Rumaisas-islam/book-library-flask-webapp.git)
+A modern and minimal Flask web application to manage and organize your personal book collection.
+Features include add/edit/delete books, search, custom 404 page, and SQLite database integration.
+
 ---
 
 ## 🎨Graphic Design Portfolio
