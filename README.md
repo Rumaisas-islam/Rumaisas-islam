@@ -111,6 +111,10 @@ Tested with unittest ✅ and optimized for deployment (Render / Heroku).
 A modern and minimal Flask web application to manage and organize your personal book collection.
 Features include add/edit/delete books, search, custom 404 page, and SQLite database integration.
 
+### 📦[Inventory Management App — Flask](https://github.com/Rumaisas-islam/inventory-management-flask.git)
+A clean, modern, and fully responsive Flask-based Inventory Management System.
+Includes user authentication, dashboard analytics, real-time search, item CRUD operations, profile management with avatars, and a Tailwind-powered UI — all backed by SQLite and SQLAlchemy.
+
 ---
 
 ## 🎨Graphic Design Portfolio
